@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.app button {
+  display: inline-block;
+  width: 100px;
+  margin: 20px auto;
+  font-size: 30px;
+}
